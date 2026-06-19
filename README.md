@@ -31,13 +31,11 @@ GalaxyStrike is a space combat game built during the Complete C# Unity 3D Game D
 
 ## Screenshots
 
-![Gameplay](Screenshots/gameplay.png)
+![Gameplay](Screenshots/Gameplay.png)
 
-![Combat](Screenshots/combat.png)
+![Combat](Screenshots/Combat.png)
 
-![Enemy Waves](Screenshots/enemy_waves.png)
-
-![UI](Screenshots/ui.png)
+![UI](Screenshots/UI.png)
 
 ## Author
 
